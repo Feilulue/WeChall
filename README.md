@@ -1,2 +1,2 @@
 # WeChall
-Own solutions to WeChall challenges
+My solutions to WeChall challenges
